@@ -6,49 +6,49 @@
 
 # 🤔 O que aprendi após finalizar esse módulo?
 
-- [] Variáveis: forma de guardar dados e utilizá-los no código.
+- [ ] Variáveis: forma de guardar dados e utilizá-los no código.
 
-- [] Tipos primitivos: tipos de dados principais do JavaScript, como textos (string), números (number) e booleanos (verdadeiro e falso).
+- [ ] Tipos primitivos: tipos de dados principais do JavaScript, como textos (string), números (number) e booleanos (verdadeiro e falso).
 
-- [] Tipagem dinâmica: processo em que não é preciso informar para o JavaScript o valor de um dado, pois ele já identifica, por padrão, se é um texto, um número ou um booleano.
+- [ ] Tipagem dinâmica: processo em que não é preciso informar para o JavaScript o valor de um dado, pois ele já identifica, por padrão, se é um texto, um número ou um booleano.
 
-- [] Operadores de atribuição: quando atribuímos valor, por exemplo: x = y (x recebe y).
+- [ ] Operadores de atribuição: quando atribuímos valor, por exemplo: x = y (x recebe y).
 
-- [] Operadores aritméticos: operadores que realizam operações como adição (+), subtração (-), multiplicação (*) e divisão (/).
+- [ ] Operadores aritméticos: operadores que realizam operações como adição (+), subtração (-), multiplicação (*) e divisão (/).
 
-- [] Operadores lógicos: operadores que auxiliam na construção da lógica de programação, por exemplo: === (igual em tipo e valor); && (e); || (ou).
+- [ ] Operadores lógicos: operadores que auxiliam na construção da lógica de programação, por exemplo: === (igual em tipo e valor); && (e); || (ou).
 
-- [] Estruturas condicionais como if/else e switch/case: estruturas que retornam respostas de acordo como uma condição, por exemplo: “Se o operador for de adição, realize a soma. Senão, realize a subtração”.
+- [ ] Estruturas condicionais como if/else e switch/case: estruturas que retornam respostas de acordo como uma condição, por exemplo: “Se o operador for de adição, realize a soma. Senão, realize a subtração”.
 
-- [] Manipular arrays (listas).
+- [ ] Manipular arrays (listas).
 
-- [] Utilizar o comando for.
+- [ ] Utilizar o comando for.
 
-- [] Quebrar grandes problemas em pequenos.
+- [ ] Quebrar grandes problemas em pequenos.
 
-- [] Utilizar a lógica de programação na resolução de problemas.
+- [ ] Utilizar a lógica de programação na resolução de problemas.
 
-- [] Utilizar funções para organizar e estruturar seu código.
+- [ ] Utilizar funções para organizar e estruturar seu código.
 
-- [] Entender o que são parâmetros de funções.
+- [ ] Entender o que são parâmetros de funções.
 
-- [] Realizar a chamada de uma função dentro de seu código.
+- [ ] Realizar a chamada de uma função dentro de seu código.
 
-- [] Definir o escopo de uma função.
+- [ ] Definir o escopo de uma função.
 
-- [] Manipular objetos.
+- [ ] Manipular objetos.
 
-- [] Utilizar o comando for/in e diferenciá-lo do comando for/of.
+- [ ] Utilizar o comando for/in e diferenciá-lo do comando for/of.
 
-- [] Acessar todas as chaves de um objeto com o método Object.keys.
+- [ ] Acessar todas as chaves de um objeto com o método Object.keys.
 
-- [] Acessar todos os valores de um objeto com o método Object.values.
+- [ ] Acessar todos os valores de um objeto com o método Object.values.
 
-- [] Acessar os pares chave-valor de um objeto com o método Object.entries.
+- [ ] Acessar os pares chave-valor de um objeto com o método Object.entries.
 
-- [] Copiar um objeto com o método Object.assign.
+- [ ] Copiar um objeto com o método Object.assign.
 
-- [] Adicionar propriedades a um objeto.
+- [ ] Adicionar propriedades a um objeto.
 
 ### [**Emerson Marinho De Sousa**](https://github.com/EmersonMarinho)
 
