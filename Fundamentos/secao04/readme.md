@@ -6,19 +6,19 @@
 
 # 🤔 O que aprendi após finalizar esse módulo?
 
-- [] Acessar dados do HTML com o JavaScript através dos seletores do DOM.
+- [ ] Acessar dados do HTML com o JavaScript através dos seletores do DOM.
 
-- [] Adicionar e remover elementos HTML da página via JavaScript;
+- [ ] Adicionar e remover elementos HTML da página via JavaScript;
 
-- [] Buscar os elementos da página com a propriedade parentNode.
+- [ ] Buscar os elementos da página com a propriedade parentNode.
 
-- [] Mudar o conteúdo, estilo e outros atributos de elementos HTML a partir de eventos do JavaScript;
+- [ ] Mudar o conteúdo, estilo e outros atributos de elementos HTML a partir de eventos do JavaScript;
 
-- [] Aplicar no seu código JavaScript eventos de click e change, entre outros
+- [ ] Aplicar no seu código JavaScript eventos de click e change, entre outros
 
-- [] Manipular o objeto localStorage;
+- [ ] Manipular o objeto localStorage;
 
-- [] Manipular o objeto sessionStorage.
+- [ ] Manipular o objeto sessionStorage.
 
 ### [**Emerson Marinho De Sousa**](https://github.com/EmersonMarinho)
 
